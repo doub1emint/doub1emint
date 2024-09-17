@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @doub1emint
 - 👀 I’m interested in machine learning, Geotechnical Engineering, and microseismic monitoring.
-- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: sun_xy@zju.edu.cn
 
 <!---
