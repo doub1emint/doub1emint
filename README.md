@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doub1emint
 - 👀 I’m interested in machine learning, Geotechnical Engineering, and microseismic monitoring.
-- 📫 How to reach me: sun_xy@zju.edu.cn
+- 📫 How to reach me: xsun379@wisc.edu
 
 <!---
 doub1emint/doub1emint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
