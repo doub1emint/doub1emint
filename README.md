@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doub1emint
-- 👀 I’m interested in advanced numerical analytical methods with GPU acceleration, geotechnical engineering, and microseismic monitoring.
+- 👀 I’m interested in advanced numerical analytical methods with GPU acceleration, geotechnical engineering, and subsurface imaging.
 - 📫 How to reach me: xsun379@wisc.edu
 
 <!---
